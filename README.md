@@ -1,3 +1,3 @@
 # Naomo
 
-Naomo is a sister of Naomi
+Naomo is a sister of Naomi!
